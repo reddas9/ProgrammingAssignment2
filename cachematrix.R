@@ -40,6 +40,9 @@ cacheSolve <- function(x, ...) {
 }
 
 ##Testing My Functions
+## Assignment for makeVector
+## Assignment for makeCacheMatrix
+## Assignment for cacheSolve
 
 > source("ProgrammingAssignment2/cachematrix.R")
 > my_matrix <- makeCacheMatrix(matrix(1:4, 2, 2))
